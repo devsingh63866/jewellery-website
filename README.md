@@ -22,7 +22,7 @@ A **pixel-perfect, responsive jewellery eCommerce homepage** built using **HTML,
 * **CSS3** – Styling & responsiveness
 * **JavaScript** – Basic interactivity
 * **Git & GitHub** – Version control
-* **Render** – Deployment
+* **Nerlify** – Deployment
 
 ---
 
@@ -57,7 +57,7 @@ jewellery-website/
 
 ## 🚀 Deployment
 
-The project is deployed on **Render** as a static site using GitHub integration.
+The project is deployed on **Netifly** as a static site using GitHub integration.
 
 **Deployment steps:**
 
