@@ -4,12 +4,6 @@ A **pixel-perfect, responsive jewellery eCommerce homepage** built using **HTML,
 
 ---
 
-## 🔗 Live Demo
-
-👉 [https://jewellery-website.onrender.com](https://jewellery-website.onrender.com)
-
----
-
 ## ✨ Features
 
 * Pixel-perfect UI converted from PDF design
